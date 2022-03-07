@@ -1,0 +1,19 @@
+@media screen and (max-width:790px){
+    header  {
+        display:flex; 
+        flex-direction: column;
+        height:105px;
+    }
+    header h2{
+        margin-top:5px;
+        margin-bottom:10px;
+        text-align: center;
+        margin-left:150px;
+    }
+    header .nav_01{
+        margin-left: -100px;
+    }
+    header .nav_02{
+        margin-right: -100px;
+    }
+}
